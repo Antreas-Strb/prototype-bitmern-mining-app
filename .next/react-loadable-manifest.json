@@ -1,0 +1,120 @@
+{
+  "../../node_modules/@supabase/auth-js/dist/module/lib/helpers.js -> @supabase/node-fetch": {
+    "id": "../../node_modules/@supabase/auth-js/dist/module/lib/helpers.js -> @supabase/node-fetch",
+    "files": []
+  },
+  "../../node_modules/@supabase/functions-js/dist/module/helper.js -> @supabase/node-fetch": {
+    "id": "../../node_modules/@supabase/functions-js/dist/module/helper.js -> @supabase/node-fetch",
+    "files": []
+  },
+  "../../node_modules/@supabase/realtime-js/dist/module/RealtimeClient.js -> @supabase/node-fetch": {
+    "id": "../../node_modules/@supabase/realtime-js/dist/module/RealtimeClient.js -> @supabase/node-fetch",
+    "files": []
+  },
+  "../../node_modules/@supabase/realtime-js/dist/module/RealtimeClient.js -> ws": {
+    "id": "../../node_modules/@supabase/realtime-js/dist/module/RealtimeClient.js -> ws",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_ws_browser_js.js"
+    ]
+  },
+  "../../node_modules/@supabase/storage-js/dist/module/lib/helpers.js -> @supabase/node-fetch": {
+    "id": "../../node_modules/@supabase/storage-js/dist/module/lib/helpers.js -> @supabase/node-fetch",
+    "files": []
+  },
+  "../routes/AppRoutes.tsx -> ../layouts/DashboardLayout": {
+    "id": "../routes/AppRoutes.tsx -> ../layouts/DashboardLayout",
+    "files": [
+      "static/chunks/_app-pages-browser_src_layouts_DashboardLayout_tsx.js"
+    ]
+  },
+  "../routes/AppRoutes.tsx -> ../pages/admin/AdminPage": {
+    "id": "../routes/AppRoutes.tsx -> ../pages/admin/AdminPage",
+    "files": [
+      "static/chunks/_app-pages-browser_src_pages_admin_AdminPage_tsx.js"
+    ]
+  },
+  "../routes/AppRoutes.tsx -> ../pages/auth/RegisterPage": {
+    "id": "../routes/AppRoutes.tsx -> ../pages/auth/RegisterPage",
+    "files": [
+      "static/chunks/_app-pages-browser_src_pages_auth_RegisterPage_tsx.js"
+    ]
+  },
+  "../routes/AppRoutes.tsx -> ../pages/billing/BillingPage": {
+    "id": "../routes/AppRoutes.tsx -> ../pages/billing/BillingPage",
+    "files": [
+      "static/chunks/_app-pages-browser_src_pages_billing_BillingPage_tsx.js"
+    ]
+  },
+  "../routes/AppRoutes.tsx -> ../pages/dashboard/DashboardPage": {
+    "id": "../routes/AppRoutes.tsx -> ../pages/dashboard/DashboardPage",
+    "files": [
+      "static/chunks/_app-pages-browser_src_pages_dashboard_DashboardPage_tsx.js"
+    ]
+  },
+  "../routes/AppRoutes.tsx -> ../pages/hosting/HostingPage": {
+    "id": "../routes/AppRoutes.tsx -> ../pages/hosting/HostingPage",
+    "files": [
+      "static/chunks/_app-pages-browser_src_pages_hosting_HostingPage_tsx.js"
+    ]
+  },
+  "../routes/AppRoutes.tsx -> ../pages/info/InfoCenterPage": {
+    "id": "../routes/AppRoutes.tsx -> ../pages/info/InfoCenterPage",
+    "files": [
+      "static/chunks/_app-pages-browser_src_pages_info_InfoCenterPage_tsx.js"
+    ]
+  },
+  "../routes/AppRoutes.tsx -> ../pages/investment/InvestmentToolsPage": {
+    "id": "../routes/AppRoutes.tsx -> ../pages/investment/InvestmentToolsPage",
+    "files": [
+      "static/chunks/_app-pages-browser_src_pages_investment_InvestmentToolsPage_tsx.js"
+    ]
+  },
+  "../routes/AppRoutes.tsx -> ../pages/marketplace/MarketplaceMinerDetails": {
+    "id": "../routes/AppRoutes.tsx -> ../pages/marketplace/MarketplaceMinerDetails",
+    "files": [
+      "static/chunks/_app-pages-browser_src_pages_marketplace_MarketplaceMinerDetails_tsx.js"
+    ]
+  },
+  "../routes/AppRoutes.tsx -> ../pages/marketplace/MarketplacePage": {
+    "id": "../routes/AppRoutes.tsx -> ../pages/marketplace/MarketplacePage",
+    "files": [
+      "static/chunks/_app-pages-browser_src_pages_marketplace_MarketplacePage_tsx.js"
+    ]
+  },
+  "../routes/AppRoutes.tsx -> ../pages/miners/MinerDetailsPage": {
+    "id": "../routes/AppRoutes.tsx -> ../pages/miners/MinerDetailsPage",
+    "files": [
+      "static/chunks/_app-pages-browser_src_pages_miners_MinerDetailsPage_tsx.js"
+    ]
+  },
+  "../routes/AppRoutes.tsx -> ../pages/miners/MinersPage": {
+    "id": "../routes/AppRoutes.tsx -> ../pages/miners/MinersPage",
+    "files": [
+      "static/chunks/_app-pages-browser_src_pages_miners_MinersPage_tsx.js"
+    ]
+  },
+  "../routes/AppRoutes.tsx -> ../pages/miners/ViaBTCWatcherPage": {
+    "id": "../routes/AppRoutes.tsx -> ../pages/miners/ViaBTCWatcherPage",
+    "files": [
+      "static/chunks/_app-pages-browser_src_pages_miners_ViaBTCWatcherPage_tsx.js"
+    ]
+  },
+  "../routes/AppRoutes.tsx -> ../pages/profile/ProfilePage": {
+    "id": "../routes/AppRoutes.tsx -> ../pages/profile/ProfilePage",
+    "files": [
+      "static/chunks/_app-pages-browser_src_pages_profile_ProfilePage_tsx.js"
+    ]
+  },
+  "../routes/AppRoutes.tsx -> ../pages/public/LandingPage": {
+    "id": "../routes/AppRoutes.tsx -> ../pages/public/LandingPage",
+    "files": [
+      "static/chunks/_app-pages-browser_src_pages_public_LandingPage_tsx.js"
+    ]
+  },
+  "../routes/AppRoutes.tsx -> ../pages/support/SupportPage": {
+    "id": "../routes/AppRoutes.tsx -> ../pages/support/SupportPage",
+    "files": [
+      "static/chunks/_app-pages-browser_src_pages_support_SupportPage_tsx.js"
+    ]
+  }
+}
